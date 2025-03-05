@@ -1,0 +1,510 @@
+  <header class="WhyFingerprintSection-module--titleSection--b9b4c">
+          <div class="WhyFingerprintSection-module--titleWrapper--5b798">
+            <span class="Label-module--label--28ddc"
+              >Why Spotter<span class="Label-module--cursor--a2fd2"
+                >_</span
+              ></span
+            >
+            <h1 class="WhyFingerprintSection-module--title--6fff3">
+              The internet&#x27;s mosts<br />
+              <mark>accurate</mark> visitor identifier
+            </h1>
+            <p class="WhyFingerprintSection-module--subTitle--84af1">
+              <strong>Industry-leading accuracy</strong> that lasts for
+              months<br class="WhyFingerprintSection-module--desktop--c2d63" />
+              or years, even when cookies are cleared.
+            </p>
+            <a
+              class="Button-module--button--3b10c Button-module--tertiary--95e3b Button-module--small--f04c2"
+              aria-label=""
+              href="index.html"
+              ><span>Learn More</span></a
+            >
+          </div>
+          <figure class="AccuracyChart-module--chart--5e9ea">
+            <div class="AccuracyChart-module--hoverArea--9b490">
+              <div style="width: 0%"></div>
+              <div
+                class="AccuracyChart-module--lineActiveX--80445"
+                style="left: 0%"
+              ></div>
+              <svg
+                width="15"
+                height="16"
+                viewBox="0 0 15 16"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+                class="AccuracyChart-module--fingerPoint--57835"
+                style="left: calc(0% - 6.5px); top: 8px"
+              >
+                <g filter="url(#filter0_d_1945_16372)">
+                  <rect
+                    x="2.8125"
+                    y="1.83154"
+                    width="9"
+                    height="9"
+                    rx="4.5"
+                    fill="rgb(0, 128, 128)"
+                    shape-rendering="crispEdges"
+                  ></rect>
+                  <rect
+                    x="2.8125"
+                    y="1.83154"
+                    width="9"
+                    height="9"
+                    rx="4.5"
+                    stroke="rgb(0, 128, 128)"
+                    stroke-opacity="0.2"
+                    stroke-width="2.38902"
+                    shape-rendering="crispEdges"
+                  ></rect>
+                  <g filter="url(#filter1_i_1945_16372)">
+                    <rect
+                      x="4.92383"
+                      y="3.94252"
+                      width="4.77803"
+                      height="4.77804"
+                      rx="2.38902"
+                      fill="white"
+                    ></rect>
+                    <rect
+                      x="4.92383"
+                      y="3.94252"
+                      width="4.77803"
+                      height="4.77804"
+                      rx="2.38902"
+                      stroke="#rgb(128, 162, 170);"
+                    ></rect>
+                  </g>
+                </g>
+                <defs>
+                  <filter
+                    id="filter0_d_1945_16372"
+                    x="0.423655"
+                    y="0.637039"
+                    width="13.7777"
+                    height="14.9725"
+                    filterUnits="userSpaceOnUse"
+                    color-interpolation-filters="sRGB"
+                  >
+                    <feFlood
+                      flood-opacity="0"
+                      result="BackgroundImageFix"
+                    ></feFlood>
+                    <feColorMatrix
+                      in="SourceAlpha"
+                      type="matrix"
+                      values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+                      result="hardAlpha"
+                    ></feColorMatrix>
+                    <feOffset dy="2.38902"></feOffset>
+                    <feGaussianBlur stdDeviation="0.597255"></feGaussianBlur>
+                    <feComposite in2="hardAlpha" operator="out"></feComposite>
+                    <feColorMatrix
+                      type="matrix"
+                      values="0 0 0 0 0.0941176 0 0 0 0 0.0980392 0 0 0 0 0.0862745 0 0 0 0.02 0"
+                    ></feColorMatrix>
+                    <feBlend
+                      mode="normal"
+                      in2="BackgroundImageFix"
+                      result="effect1_dropShadow_1945_16372"
+                    ></feBlend>
+                    <feBlend
+                      mode="normal"
+                      in="SourceGraphic"
+                      in2="effect1_dropShadow_1945_16372"
+                      result="shape"
+                    ></feBlend>
+                  </filter>
+                  <filter
+                    id="filter1_i_1945_16372"
+                    x="4.92383"
+                    y="3.94252"
+                    width="4.77832"
+                    height="8.36157"
+                    filterUnits="userSpaceOnUse"
+                    color-interpolation-filters="sRGB"
+                  >
+                    <feFlood
+                      flood-opacity="0"
+                      result="BackgroundImageFix"
+                    ></feFlood>
+                    <feBlend
+                      mode="normal"
+                      in="SourceGraphic"
+                      in2="BackgroundImageFix"
+                      result="shape"
+                    ></feBlend>
+                    <feColorMatrix
+                      in="SourceAlpha"
+                      type="matrix"
+                      values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+                      result="hardAlpha"
+                    ></feColorMatrix>
+                    <feOffset dy="3.58353"></feOffset>
+                    <feGaussianBlur stdDeviation="1.79176"></feGaussianBlur>
+                    <feComposite
+                      in2="hardAlpha"
+                      operator="arithmetic"
+                      k2="-1"
+                      k3="1"
+                    ></feComposite>
+                    <feColorMatrix
+                      type="matrix"
+                      values="0 0 0 0 0.0941176 0 0 0 0 0.0980392 0 0 0 0 0.0862745 0 0 0 0.04 0"
+                    ></feColorMatrix>
+                    <feBlend
+                      mode="normal"
+                      in2="shape"
+                      result="effect1_innerShadow_1945_16372"
+                    ></feBlend>
+                  </filter>
+                </defs>
+              </svg>
+              <svg
+                width="15"
+                height="15"
+                viewBox="0 0 15 15"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+                class="AccuracyChart-module--compPoint--b433d"
+                style="left: calc(0% - 6.5px); top: 16px"
+              >
+                <g filter="url(#filter0_d_1945_16374)">
+                  <rect
+                    x="2.8125"
+                    y="1.22876"
+                    width="9"
+                    height="9"
+                    rx="4.5"
+                    fill="rgb(248, 73, 96)"
+                    shape-rendering="crispEdges"
+                  ></rect>
+                  <rect
+                    x="2.8125"
+                    y="1.22876"
+                    width="9"
+                    height="9"
+                    rx="4.5"
+                    stroke="rgb(248, 73, 96)"
+                    stroke-opacity="0.2"
+                    stroke-width="2.38902"
+                    shape-rendering="crispEdges"
+                  ></rect>
+                  <g filter="url(#filter1_i_1945_16374)">
+                    <rect
+                      x="4.92383"
+                      y="3.33974"
+                      width="4.77803"
+                      height="4.77804"
+                      rx="2.38902"
+                      fill="white"
+                    ></rect>
+                    <rect
+                      x="4.92383"
+                      y="3.33974"
+                      width="4.77803"
+                      height="4.77804"
+                      rx="2.38902"
+                      stroke="rgb(248, 73, 96)"
+                    ></rect>
+                  </g>
+                </g>
+                <defs>
+                  <filter
+                    id="filter0_d_1945_16374"
+                    x="0.423655"
+                    y="0.034256"
+                    width="13.7777"
+                    height="14.9725"
+                    filterUnits="userSpaceOnUse"
+                    color-interpolation-filters="sRGB"
+                  >
+                    <feFlood
+                      flood-opacity="0"
+                      result="BackgroundImageFix"
+                    ></feFlood>
+                    <feColorMatrix
+                      in="SourceAlpha"
+                      type="matrix"
+                      values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+                      result="hardAlpha"
+                    ></feColorMatrix>
+                    <feOffset dy="2.38902"></feOffset>
+                    <feGaussianBlur stdDeviation="0.597255"></feGaussianBlur>
+                    <feComposite in2="hardAlpha" operator="out"></feComposite>
+                    <feColorMatrix
+                      type="matrix"
+                      values="0 0 0 0 0.0941176 0 0 0 0 0.0980392 0 0 0 0 0.0862745 0 0 0 0.02 0"
+                    ></feColorMatrix>
+                    <feBlend
+                      mode="normal"
+                      in2="BackgroundImageFix"
+                      result="effect1_dropShadow_1945_16374"
+                    ></feBlend>
+                    <feBlend
+                      mode="normal"
+                      in="SourceGraphic"
+                      in2="effect1_dropShadow_1945_16374"
+                      result="shape"
+                    ></feBlend>
+                  </filter>
+                  <filter
+                    id="filter1_i_1945_16374"
+                    x="4.92383"
+                    y="3.33974"
+                    width="4.77832"
+                    height="8.36157"
+                    filterUnits="userSpaceOnUse"
+                    color-interpolation-filters="sRGB"
+                  >
+                    <feFlood
+                      flood-opacity="0"
+                      result="BackgroundImageFix"
+                    ></feFlood>
+                    <feBlend
+                      mode="normal"
+                      in="SourceGraphic"
+                      in2="BackgroundImageFix"
+                      result="shape"
+                    ></feBlend>
+                    <feColorMatrix
+                      in="SourceAlpha"
+                      type="matrix"
+                      values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+                      result="hardAlpha"
+                    ></feColorMatrix>
+                    <feOffset dy="3.58353"></feOffset>
+                    <feGaussianBlur stdDeviation="1.79176"></feGaussianBlur>
+                    <feComposite
+                      in2="hardAlpha"
+                      operator="arithmetic"
+                      k2="-1"
+                      k3="1"
+                    ></feComposite>
+                    <feColorMatrix
+                      type="matrix"
+                      values="0 0 0 0 0.0941176 0 0 0 0 0.0980392 0 0 0 0 0.0862745 0 0 0 0.04 0"
+                    ></feColorMatrix>
+                    <feBlend
+                      mode="normal"
+                      in2="shape"
+                      result="effect1_innerShadow_1945_16374"
+                    ></feBlend>
+                  </filter>
+                </defs>
+              </svg>
+            </div>
+            <div class="AccuracyChart-module--chartLines--2be2c">
+              <div class="AccuracyChart-module--lineY--ef7e5"></div>
+            </div>
+            <div class="AccuracyChart-module--chartPoints--63f06">
+              <div class="AccuracyChart-module--point--bec41">
+                <span>10K</span>
+              </div>
+              <div class="AccuracyChart-module--point--bec41">
+                <span>20K</span>
+              </div>
+              <div class="AccuracyChart-module--point--bec41">
+                <span>30K</span>
+              </div>
+              <div class="AccuracyChart-module--point--bec41">
+                <span>50K</span>
+              </div>
+              <div class="AccuracyChart-module--point--bec41">
+                <span>60K</span>
+              </div>
+              <div class="AccuracyChart-module--point--bec41">
+                <span>70K</span>
+              </div>
+              <div class="AccuracyChart-module--point--bec41">
+                <span>80K</span>
+              </div>
+              <div class="AccuracyChart-module--point--bec41">
+                <span>90K</span>
+              </div>
+              <div class="AccuracyChart-module--point--bec41">
+                <span>100K</span>
+              </div>
+            </div>
+            <div class="AccuracyChart-module--chartLabels--8ffdd">
+              <span class="" style="color:rgb(0, 128, 128); font-weight: bold;">-First Ball</span
+              ><span class="" style="color:rgb(248, 73, 96); font-weight: bold;">-Second Ball</span
+              >
+            </div>
+            <svg
+              preserveAspectRatio="none"
+              width="725"
+              height="144"
+              viewBox="0 0 725 144"
+              fill="none"
+              xmlns="http://www.w3.org/2000/svg"
+              class="AccuracyChart-module--fingerprint--9044b"
+            >
+              <path
+                d="M0 0.58374L23.1716 2.55755C24.979 2.71151 26.7962 2.71151 28.6036 2.55756L47.2184 0.971908C50.2409 0.714444 53.2846 0.888057 56.2583 1.48753L77.2217 5.7137C80.3892 6.35227 83.6352 6.5074 86.8492 6.17381L106.468 4.13758C108.581 3.91824 110.711 3.90991 112.825 4.11269L161.001 8.7319C162.979 8.92155 164.97 8.92657 166.949 8.74688L187.027 6.92368C189.803 6.67162 192.6 6.78331 195.347 7.25591L229.804 13.1842C233.424 13.807 237.124 13.8019 240.742 13.1693L268.039 8.39594C271.772 7.74316 275.591 7.75869 279.319 8.4418L321.829 16.2319C325.345 16.8763 328.944 16.9269 332.477 16.3817L354.571 12.9721L382.075 11.3659C386.831 11.0882 391.589 11.8759 396.002 13.6716L410.55 19.5914C416.628 22.0645 423.319 22.6096 429.716 21.1527L442.85 18.1619C447.876 17.0175 453.103 17.104 458.088 18.4139L473.478 22.4583C477.933 23.6289 482.588 23.8241 487.124 23.0306L512.5 18.5925L527.543 16.7777C530.843 16.3797 534.184 16.4981 537.448 17.1287L559.937 21.4749C562.153 21.9032 564.408 22.0958 566.665 22.0495L592.702 21.5155C594.962 21.4691 597.212 21.1833 599.412 20.6627L624.837 14.6482C628.614 13.7545 632.524 13.5557 636.373 14.0615L660.83 17.2755L684.516 23.8384C688.293 24.8848 692.23 25.2286 696.131 24.8526L723.799 22.1859"
+                stroke="rgb(0, 128, 128)"
+                stroke-width="0.987199"
+              ></path>
+              <path
+                d="M0 3.32922L25.2349 8.60718C28.8177 9.35654 32.5026 9.48564 36.129 8.98887L48.0187 7.36015C51.5142 6.88133 55.0647 6.98384 58.5267 7.66355L76.393 11.1713C79.7741 11.8351 83.2403 11.9485 86.6575 11.5071L106.092 8.99663C108.488 8.68713 110.912 8.64996 113.316 8.88582L161.078 13.5713C162.887 13.7487 164.708 13.7717 166.521 13.64L186.909 12.1588C191.422 11.8309 195.898 13.1749 199.484 15.9346V15.9346C202.041 17.9018 205.068 19.1636 208.265 19.594L233.184 22.9484L257.53 22.9344C267.229 22.9288 276.408 27.3228 282.486 34.8814L318.21 79.3073C324.29 86.8684 333.473 91.2626 343.175 91.2543L378.556 91.2243C380.777 91.2224 382.993 91.4518 385.167 91.9088L434.198 102.216C436.376 102.674 438.596 102.904 440.822 102.901L490.03 102.838C492.04 102.836 494.046 103.022 496.021 103.396L544.536 112.578C546.199 112.893 547.885 113.075 549.577 113.123L597.28 114.478C599.14 114.531 600.991 114.746 602.813 115.121L627.479 120.19L650.819 124.987C653.517 125.542 656.132 126.442 658.599 127.666L682.771 139.66C687.095 141.805 691.848 142.944 696.674 142.992L724.302 143.268"
+                stroke="rgb(248, 73, 96)"
+                stroke-width="0.987199"
+              ></path>
+              <defs>
+                <linearGradient
+                  id="paint0_linear_2311_244"
+                  x1="-4.6933"
+                  y1="13.2015"
+                  x2="803.425"
+                  y2="-184.156"
+                  gradientUnits="userSpaceOnUse"
+                >
+                  <stop stop-color="rgb(0, 128, 128)" stop-opacity="0"></stop>
+                  <stop offset="0.0506713" stop-color="rgb(0, 128, 128)"></stop>
+                  <stop offset="0.94928" stop-color="rgb(0, 128, 128)"></stop>
+                  <stop offset="0.998677" stop-color="rgb(0, 128, 128)"></stop>
+                </linearGradient>
+                <linearGradient
+                  id="paint1_linear_2311_244"
+                  x1="-3.90509"
+                  y1="47.3174"
+                  x2="771.147"
+                  y2="-107.433"
+                  gradientUnits="userSpaceOnUse"
+                >
+                  <stop
+                    offset="0.00617269"
+                    stop-color="#907FDA"
+                    stop-opacity="0"
+                  ></stop>
+                  <stop offset="0.0789917" stop-color="rgb(248, 73, 96)"></stop>
+                  <stop offset="0.75" stop-color="rgb(248, 73, 96)"></stop>
+                  <stop offset="0.97" stop-color="rgb(248, 73, 96)"></stop>
+                </linearGradient>
+              </defs>
+            </svg>
+            <div
+              class="AccuracyChart-module--card--1ff00"
+              style="left: calc(0% - 106px); top: 0"
+            >
+              <span class="AccuracyChart-module--days--4391d"
+                >0<!-- -->
+                days</span
+              >
+              <div class="AccuracyChart-module--valuesSection--5f797">
+                <div class="AccuracyChart-module--companyValue--33c20">
+                  <span class="AccuracyChart-module--company--715c3"
+                    >Spotter</span
+                  ><span class="AccuracyChart-module--finValue--6c97d"
+                    >-<!-- -->0.0<!-- -->%</span
+                  >
+                </div>
+                <div class="AccuracyChart-module--companyValue--33c20">
+                  <span class="AccuracyChart-module--company--715c3"
+                    >Competitors</span
+                  ><span class="AccuracyChart-module--comValue--b5ee0"
+                    >-<!-- -->0.0<!-- -->%</span
+                  >
+                </div>
+              </div>
+            </div>
+          </figure>
+        </header>
+
+              document.addEventListener("DOMContentLoaded", function () {
+        const chart = document.querySelector(
+          ".AccuracyChart-module--chart--5e9ea",
+        );
+        const modal = document.querySelector(
+          ".AccuracyChart-module--card--1ff00",
+        );
+        const fingerprintBall = document.querySelector(
+          ".AccuracyChart-module--fingerPoint--57835",
+        );
+        const competitorBall = document.querySelector(
+          ".AccuracyChart-module--compPoint--b433d",
+        );
+        const fingerprintValue = document.querySelector(
+          ".AccuracyChart-module--finValue--6c97d",
+        );
+        const competitorValue = document.querySelector(
+          ".AccuracyChart-module--comValue--b5ee0",
+        );
+        const daysLabel = document.querySelector(
+          ".AccuracyChart-module--days--4391d",
+        );
+        const activeLine = document.querySelector(
+          ".AccuracyChart-module--lineActiveX--80445",
+        );
+        const hoverArea = document.querySelector(
+          ".AccuracyChart-module--hoverArea--9b490",
+        );
+
+        const totalWidth = chart.clientWidth;
+        const totalHeight = chart.clientHeight;
+        const centerOffset = totalHeight * 0.2; // Adjust to keep balls near the curve center
+        const xAxisStart =
+          activeLine.getBoundingClientRect().left -
+          chart.getBoundingClientRect().left;
+        const dates = Array.from({ length: 120 }, (_, i) => i + 1);
+
+        const fingerprintCurve = (x) =>
+          totalHeight * (0.25 - 0.04 * Math.sin(x * Math.PI)) - centerOffset;
+        const competitorCurve = (x) =>
+          totalHeight * (0.6 - 0.32 * Math.cos(x * Math.PI)) - centerOffset;
+
+        fingerprintBall.style.left = `${xAxisStart}px`;
+        fingerprintBall.style.top = `${fingerprintCurve(0)}px`;
+        competitorBall.style.left = `${xAxisStart}px`;
+        competitorBall.style.top = `${competitorCurve(0)}px`;
+        console.log("Fingerprint Ball:", fingerprintBall);
+        console.log("Competitor Ball:", competitorBall);
+
+        chart.addEventListener("mouseenter", function () {
+          modal.classList.add("AccuracyChart-module--active--d51ee");
+          fingerprintBall.style.display = "block";
+          competitorBall.style.display = "block";
+        });
+
+        chart.addEventListener("mouseleave", function () {
+          modal.classList.remove("AccuracyChart-module--active--d51ee");
+          fingerprintBall.style.display = "none";
+          competitorBall.style.display = "none";
+        });
+
+        chart.addEventListener("mousemove", function (event) {
+           console.log("Fingerprint Ball:", fingerprintBall);
+        console.log("Competitor Ball:", competitorBall);
+          const rect = chart.getBoundingClientRect();
+          let x = event.clientX - rect.left;
+          if (x < xAxisStart) return;
+
+          const percentage =
+            ((x - xAxisStart) / (totalWidth - xAxisStart)) * 100;
+          const index = Math.floor(
+            (dates.length * (x - xAxisStart)) / (totalWidth - xAxisStart),
+          );
+
+          if (index >= 0 && index < dates.length) {
+            const days = dates[index];
+            const normalizedX = index / 120;
+
+            fingerprintValue.textContent =
+              (-1.4 * normalizedX).toFixed(1) + "%";
+            competitorValue.textContent =
+              (-75.8 * normalizedX).toFixed(1) + "%";
+            daysLabel.textContent = days + " Days";
+
+            activeLine.style.left = `${x}px`;
+            fingerprintBall.style.left = `${x}px`;
+            competitorBall.style.left = `${x}px`;
+            fingerprintBall.style.top = `${fingerprintCurve(normalizedX)}px`;
+            competitorBall.style.top = `${competitorCurve(normalizedX)}px`;
+
+            hoverArea.classList.add("AccuracyChart-module--active--d51ee");
+            modal.style.left = `calc(${x}px - 80px)`; // Shift modal left so it doesn't cover the balls
+            modal.style.transform = "translateX(-50%)";
+          }
+        });
+      });
