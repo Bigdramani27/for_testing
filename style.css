@@ -15252,8 +15252,8 @@ select:focus {
 .WhyFingerprintSection-module--magnifier--a02ed {
   height: 100%;
   left: 0;
-  -webkit-mask-image: url("download.svg");
-  mask-image: url("download.svg");
+  -webkit-mask-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='128' height='128' fill='none' viewBox='0 0 128 128'%3E%3Ccircle cx='64' cy='64' r='64' fill='%23D9D9D9'/%3E%3C/svg%3E");
+  mask-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='128' height='128' fill='none' viewBox='0 0 128 128'%3E%3Ccircle cx='64' cy='64' r='64' fill='%23D9D9D9'/%3E%3C/svg%3E");
   -webkit-mask-origin: center;
   mask-origin: center;
   -webkit-mask-position: calc(var(--x) - 42px) calc(var(--y) - 42px);
@@ -58684,7 +58684,7 @@ select:focus {
   }
 }
 .WhyFingerprintSection-module--grid--e5035:before {
-  border: 1px solid orange;
+  border: 1px solid rgb(0, 128, 128);
   border-radius: 50%;
   content: "";
   height: 84px;
@@ -58712,8 +58712,8 @@ select:focus {
 .WhyFingerprintSection-module--magnifier--702c1 {
   height: 100%;
   left: 0;
-  -webkit-mask-image: url("download.svg");
-  mask-image: url("download.svg");
+  -webkit-mask-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='128' height='128' fill='none' viewBox='0 0 128 128'%3E%3Ccircle cx='64' cy='64' r='64' fill='%23D9D9D9'/%3E%3C/svg%3E");
+  mask-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='128' height='128' fill='none' viewBox='0 0 128 128'%3E%3Ccircle cx='64' cy='64' r='64' fill='%23D9D9D9'/%3E%3C/svg%3E");
   -webkit-mask-origin: center;
   mask-origin: center;
   -webkit-mask-position: calc(var(--x) - 42px) calc(var(--y) - 42px);
