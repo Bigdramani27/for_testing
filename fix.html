@@ -801,13 +801,7 @@
                   <circle cx="440" cy="167" r="5"></circle>
               
                 </g>
-              </svg>
-              
-              
-              
-              
-              
-
+              </svg> 
               <div>
                 <div class="WhyFingerprintSection-module--magnifier--702c1">
                   <div
@@ -841,8 +835,8 @@
                   
                       <!-- Row 2 -->
                       <circle cx="15" cy="35" r="5"></circle>
-                      <circle cx="40" cy="35" r="5"></circle>
-                      <circle cx="60" cy="35" r="5"></circle>
+                      <circle cx="40" cy="35" r="5"fill="rgb(0, 128, 128)"></circle>
+                      <circle cx="60" cy="35" r="5"fill="rgb(0, 128, 128)"></circle>
                       <circle cx="80" cy="35" r="5"></circle>
                       <circle cx="100" cy="35" r="5"></circle>
                       <circle cx="120" cy="35" r="5"></circle>
@@ -915,8 +909,8 @@
                       <circle cx="15" cy="101" r="5" fill="rgb(0, 128, 128)"></circle>
                       <circle cx="40" cy="101" r="5"></circle>
                       <circle cx="60" cy="101" r="5"></circle>
-                      <circle cx="80" cy="101" r="5"></circle>
-                      <circle cx="100" cy="101" r="5"></circle>
+                      <circle cx="80" cy="101" r="5" fill="rgb(0, 128, 128)"></circle>
+                      <circle cx="100" cy="101" r="5" fill="rgb(0, 128, 128)"></circle>
                       <circle cx="120" cy="101" r="5"></circle>
                       <circle cx="140" cy="101" r="5"></circle>
                       <circle cx="160" cy="101" r="5"></circle>
@@ -1071,8 +1065,8 @@ document.addEventListener("DOMContentLoaded", function () {
         let relativeY = event.clientY - rect.top; 
 
         // Clamp values
-        x = Math.max(-2, Math.min(484, x)); 
-        y = Math.max(2, Math.min(170, y));  
+        x = Math.max(-2, Math.min(500, x)); 
+        y = Math.max(2, Math.min(230, y));  
 
         // Update CSS variables
         movingElement.style.setProperty("--x", `${x}px`);

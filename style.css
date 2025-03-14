@@ -58684,17 +58684,20 @@ select:focus {
   }
 }
 .WhyFingerprintSection-module--grid--e5035:before {
-  border: 1px solid rgb(0, 128, 128);
-  border-radius: 50%;
   content: "";
-  height: 84px;
-  left: calc(var(--x) - 42px);
-  pointer-events: none;
   position: absolute;
-  top: calc(var(--y) - 42px);
-  width: 84px;
+  top: calc(var(--y) - 65px);
+  left: calc(var(--x) - 65px);
+  width: 80px;
+  height: 80px;
+  background: url("data:image/svg+xml;charset=utf-8,<svg viewBox='0 0 1024 1024' xmlns='http://www.w3.org/2000/svg' fill='none' transform='rotate(45)'><path d='M448 768A320 320 0 1 0 448 128a320 320 0 0 0 0 640z m297.344-76.992l214.592 214.592-54.336 54.336-214.592-214.592a384 384 0 1 1 54.336-54.336z' fill='%23008080'/></svg>") no-repeat center;
+  background-size: contain;
+  pointer-events: none;
   z-index: 1;
+  opacity: 0;
+  transition: opacity 0.2s ease-in-out;
 }
+
 @media (min-width: 641px) {
   .WhyFingerprintSection-module--grid--e5035:before {
     opacity: 0;
@@ -58716,12 +58719,12 @@ select:focus {
   mask-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='128' height='128' fill='none' viewBox='0 0 128 128'%3E%3Ccircle cx='64' cy='64' r='64' fill='%23D9D9D9'/%3E%3C/svg%3E");
   -webkit-mask-origin: center;
   mask-origin: center;
-  -webkit-mask-position: calc(var(--x) - 42px) calc(var(--y) - 42px);
-  mask-position: calc(var(--x) - 42px) calc(var(--y) - 42px);
+  mask-position: calc(var(--x) - 49px) calc(var(--y) - 56px);
+  mask-position: calc(var(--x) - 49px) calc(var(--y) - 56px);
   -webkit-mask-repeat: no-repeat;
   mask-repeat: no-repeat;
-  -webkit-mask-size: 84px;
-  mask-size: 84px;
+  -webkit-mask-size: 48px;
+  mask-size: 48px;
   position: absolute;
   top: 0;
   width: 100%;
