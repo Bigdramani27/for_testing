@@ -58248,7 +58248,7 @@ select:focus {
   cursor: pointer;
 }
 .ShowcaseSection-module--inspectData--3185d {
-  border-left: 0.125rem solid #6e6f6c;
+  border-left: 0.125rem solid black;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -58264,7 +58264,7 @@ select:focus {
 }
 .ShowcaseSection-module--inspectData--3185d.ShowcaseSection-module--notDetected--ace99 {
   background: rgba(232, 247, 233, 0.2);
-  border-left: 0.125rem solid #165424;
+  border-left: 0.125rem solid black;
 }
 .ShowcaseSection-module--inspectData--3185d.ShowcaseSection-module--notDetected--ace99
   .ShowcaseSection-module--labelValue--f2247 {
@@ -58278,7 +58278,7 @@ select:focus {
   line-height: 145%;
 }
 .ShowcaseSection-module--visitorIdWrapper--eb400 {
-  border-left: 0.125rem solid #f35b22;
+  border-left: 0.125rem solid black;
   border-right: 0.125rem dashed var(--dash-gray);
   display: flex;
   flex: 1 1;
@@ -58690,7 +58690,7 @@ select:focus {
   left: calc(var(--x) - 65px);
   width: 80px;
   height: 80px;
-  background: url("data:image/svg+xml;charset=utf-8,<svg viewBox='0 0 1024 1024' xmlns='http://www.w3.org/2000/svg' fill='none' transform='rotate(45)'><path d='M448 768A320 320 0 1 0 448 128a320 320 0 0 0 0 640z m297.344-76.992l214.592 214.592-54.336 54.336-214.592-214.592a384 384 0 1 1 54.336-54.336z' fill='%23008080'/></svg>") no-repeat center;
+  background: url("data:image/svg+xml;charset=utf-8,<svg viewBox='0 0 490 490' xmlns='http://www.w3.org/2000/svg' fill='none' transform='rotate(45)'><path d='M437.588,202.053C437.588,90.634,344.307,0,229.643,0S21.683,90.634,21.683,202.053s93.296,202.068,207.96,202.068 c43.421,0,83.744-13.04,117.128-35.243L456.982,490l11.335-10.318L359.242,359.809C406.918,322.749,437.588,265.857,437.588,202.053 z M229.643,388.809c-106.23,0-192.647-83.785-192.647-186.756S123.412,15.313,229.643,15.313 c106.216,0,192.633,83.77,192.633,186.741S335.858,388.809,229.643,388.809z' fill='%23008080' /></svg>") no-repeat center; 
   background-size: contain;
   pointer-events: none;
   z-index: 1;
@@ -58719,12 +58719,12 @@ select:focus {
   mask-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='128' height='128' fill='none' viewBox='0 0 128 128'%3E%3Ccircle cx='64' cy='64' r='64' fill='%23D9D9D9'/%3E%3C/svg%3E");
   -webkit-mask-origin: center;
   mask-origin: center;
-  mask-position: calc(var(--x) - 49px) calc(var(--y) - 56px);
-  mask-position: calc(var(--x) - 49px) calc(var(--y) - 56px);
+  mask-position: calc(var(--x) - 52px) calc(var(--y) - 61px);
+  mask-position: calc(var(--x) - 52px) calc(var(--y) - 61px);
   -webkit-mask-repeat: no-repeat;
   mask-repeat: no-repeat;
-  -webkit-mask-size: 48px;
-  mask-size: 48px;
+  -webkit-mask-size: 60px;
+  mask-size: 60px;
   position: absolute;
   top: 0;
   width: 100%;
